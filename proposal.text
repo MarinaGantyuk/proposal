@@ -1,0 +1,29 @@
+Capstone:  Ideas
+Marina Gantyuk
+
+The first project idea I would like to design is a website with simple recipes 
+anybody can create at home, using Spoonacularfood API. The website will contain
+nutritional information, the products or utensils used, and proper formatting,
+making it easy for anyone to browse through. To begin with, the user registers 
+for an account, providing basic information and they will have the option to 
+look through recipes by putting in the food options they already have at home.
+
+The second project idea is creating a vacation planning website to help others have 
+a brief understanding of the future weather of their vacation, using a weather API. 
+After creating an account, the user will simply just need to click the search bar 
+and write down the date and location of their vacation. Once accessing the weather, 
+the website will display the current and future weather of the location they are 
+staying at even if it’s months ahead.
+
+For idea three, I want to create a website for children struggling with their speech.
+The legal guardian will simply just need to create an account for their child, and 
+it will give  them access to different exercises specifically made for the child’s 
+speech struggles and it will be concentrated more on articulation and lip placement. 
+Using Web-Speech-API, the child can sound out the words or phrases, and this website 
+can respond or react to their pronunciation of the given word. There will be visuals 
+to help the children have a better understanding of the proper pronunciation of the 
+words or phrases and lip placement of the letters as well. From all of the ideas, I 
+would like to focus on this one the most, for I have a child with a cleft palate which
+making him struggle with his speech. Through my experience with my child, I believe 
+creating this web-site would be the most beneficial idea, not just for my child, 
+but others as well. 
